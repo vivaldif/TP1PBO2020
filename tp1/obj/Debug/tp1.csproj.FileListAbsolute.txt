@@ -1,0 +1,15 @@
+C:\Users\VIVALDI\source\repos\tp1\tp1\obj\Debug\tp1.csprojAssemblyReference.cache
+C:\Users\VIVALDI\source\repos\tp1\tp1\obj\Debug\tp1.Form1.resources
+C:\Users\VIVALDI\source\repos\tp1\tp1\obj\Debug\tp1.Properties.Resources.resources
+C:\Users\VIVALDI\source\repos\tp1\tp1\obj\Debug\tp1.csproj.GenerateResource.cache
+C:\Users\VIVALDI\source\repos\tp1\tp1\bin\Debug\tp1.exe.config
+C:\Users\VIVALDI\source\repos\tp1\tp1\bin\Debug\tp1.exe
+C:\Users\VIVALDI\source\repos\tp1\tp1\bin\Debug\tp1.pdb
+C:\Users\VIVALDI\source\repos\tp1\tp1\obj\Debug\tp1.exe
+C:\Users\VIVALDI\source\repos\tp1\tp1\obj\Debug\tp1.pdb
+C:\Users\VIVALDI\source\repos\tp1\tp1\obj\Debug\tp1.Form2.resources
+C:\Users\VIVALDI\source\repos\tp1\tp1\obj\Debug\tp1.Form3.resources
+C:\Users\VIVALDI\source\repos\tp1\tp1\obj\Debug\tp1.Form4.resources
+C:\Users\VIVALDI\source\repos\tp1\tp1\obj\Debug\tp1.Form5.resources
+C:\Users\VIVALDI\source\repos\tp1\tp1\obj\Debug\tp1.Form6.resources
+C:\Users\VIVALDI\source\repos\tp1\tp1\obj\Debug\tp1.Form7.resources
